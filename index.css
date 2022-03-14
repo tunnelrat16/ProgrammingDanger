@@ -1,0 +1,17 @@
+h1 {
+    background-color: rgb(161, 18, 180);
+    color: white;
+    width: 300px;
+    padding: 25px;
+}
+
+p {
+    width: 300px;
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+#warning {
+color: crimson;
+}
